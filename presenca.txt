@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Elson
-=======
-wellington
+wellingto
+Augusto Leal
 
->>>>>>> 4d592a0f351df3d30cb6367ef9ac8dbff390b327
