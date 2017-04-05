@@ -1,4 +1,8 @@
 Elson
 wellingto
 Augusto Leal
+<<<<<<< HEAD
 Rafael Albernaz
+=======
+Thays Pires
+>>>>>>> 648c063c4eafab636bd48d64d8df0fe5bc75b90f
