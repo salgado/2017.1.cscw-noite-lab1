@@ -1,14 +1,7 @@
 Elson
 wellingto
 Augusto Leal
-<<<<<<< HEAD
-<<<<<<< HEAD
 Rafael Albernaz
-=======
 Thays Pires
->>>>>>> 648c063c4eafab636bd48d64d8df0fe5bc75b90f
-=======
 Ricardo Pinto Peixoto Filho
 Thays Pires
-
->>>>>>> d9ad71b2a84b14b5931c57f40125b74615b8d2b5
