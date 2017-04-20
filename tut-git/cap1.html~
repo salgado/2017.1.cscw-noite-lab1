@@ -59,24 +59,12 @@
     <section id="portfolio">
         <div class="container">
             </br>
-            <h2 class="text-center">Criar um repositório</h2>
+            <h2 class="text-center">Introdução</h2>
             <hr class="star-primary">
             <div class="row">
-			<p>
-				<b>Geralmente</b>, um <b>repositório</b> é usado para <b>organizar</b> um único projeto. Os repositórios podem conter pastas e arquivos, imagens, vídeos, planilhas e conjuntos de dados - tudo o que seu projeto precisa. Recomendamos incluir um README ou um arquivo com informações sobre seu projeto. O GitHub facilita a adição de um ao mesmo tempo em que você cria seu novo repositório. <i>Ele também oferece outras opções comuns, como um arquivo de licença.</i><p>
-				<h3><b>Para criar um novo repositório</h3></b><p>
-				1-No canto superior direito, ao lado do seu avatar ou identidade, clique em + <b>E selecione Novo repositório.</b><p>
-				2-Nomeie seu repositório, para, por exemplo, rep_teste.<p>
-				3-Escreva uma breve descrição.<p>
-				4-Selecione Inicializar este repositório com um README.<p>
+		<p>GitHub é uma plataforma de hospedagem de código para controle de versão e colaboração. <br/>Ele permite que você e outros trabalhem juntos em projetos de qualquer lugar.<br/>
 
-	<img src="https://guides.github.com/activities/hello-world/create-new-repo.png" heigth="600" width="600"/>
-
-	
-                
-                
-                
-                
+Este tutorial ensina os itens essenciais do GitHub como criação de branch, clone de repositórios, solicitações de pull e commit de trabalhos.<br/> Você criará seu próprio repositório Hello World e aprenderá o fluxo de trabalho do Pull Request do GitHub, uma maneira popular de criar e revisar código.</p>
             </div>
         </div>
     </section>

@@ -68,120 +68,33 @@
             <div class="intro-text">
                 <span class="name">Tutorial Github</span>
                 <hr class="star-light">
-<<<<<<< HEAD
                   <span class="skills" >
-			<a class="nav-link" style="color:white;" href="#capitulo1" onclick="inserir('capitulo1')">1. Introdução</>
-			<a class="nav-link" style="color:white;" href="#capitulo2" onclick="inserir('capitulo2')">2. Criando repositório no git</a>
-			<a class="nav-link" style="color:white;" href="#capitulo3" onclick="inserir('capitulo3')">3. Clonando repositório (clone)</a>
-			<a class="nav-link" style="color:white;" href="#capitulo4" onclick="inserir('capitulo4')">4. Adicionando arquivos no staging (add)</a>		
-			<a class="nav-link" style="color:white;" href="#capitulo5" onclick="inserir('capitulo5')">5. Comitando alterações (commit)</a>
-			<a class="nav-link" style="color:white;" href="#capitulo6" onclick="inserir('capitulo6')">6. Publicando no github (push)</a>
-			<a class="nav-link" style="color:white;" href="#capitulo7" onclick="inserir('capitulo7')">7. Atualizando seu post (pull)</a>
-			<a class="nav-link" style="color:white;" href="#capitulo8" onclick="inserir('capitulo8')">8. Criando uma branch</a>
+			<a class="nav-link" style="color:white;" href="#capitulo1">1. Introdução</a>
+			<a class="nav-link" style="color:white;" href="cap2.html">2. Criando repositório no git</a>
+			<a class="nav-link" style="color:white;" href="cap_3.html">3. Clonando repositório (clone)</a>
+			<a class="nav-link" style="color:white;" href="#capitulo4">4. Adicionando arquivos no staging (add)</a>		
+			<a class="nav-link" style="color:white;" href="#capitulo5">5. Comitando alterações (commit)</a>
+			<a class="nav-link" style="color:white;" href="capitulo-6.html">6. Publicando no github (push)</a>
+			<a class="nav-link" style="color:white;" href="#capitulo7">7. Atualizando seu post (pull)</a>
+			<a class="nav-link" style="color:white;" href="cap8.html">8. Criando uma branch</a>
 		</span>
-=======
-                <span class="skills">1.Introdução</span>
-
->>>>>>> 866c8586c60daa82c8e4d4b1305234517bd89a66
             </div>
         </div>
     </header>
 
- <!-- Capitulo1 Grid Section -->
-    <section id="capitulo1">
+ <!-- Portfolio Grid Section -->
+    <section id="portfolio">
         <div class="container">
-            <h3 class="text-center">1. Introdução</h3>
+            </br>
+            <h2 class="text-center">Introdução</h2>
             <hr class="star-primary">
             <div class="row">
-		<p class="conteudo"></p>
-		<button class="btn btn-primary" onclick="voltar()"> Voltar</button>
+		<p>GitHub é uma plataforma de hospedagem de código para controle de versão e colaboração. <br/>Ele permite que você e outros trabalhem juntos em projetos de qualquer lugar.<br/>
+
+Este tutorial ensina os itens essenciais do GitHub como criação de branch, clone de repositórios, solicitações de pull e commit de trabalhos.<br/> Você criará seu próprio repositório Hello World e aprenderá o fluxo de trabalho do Pull Request do GitHub, uma maneira popular de criar e revisar código.</p>
             </div>
         </div>
     </section>
-
-    <!-- Capitulo2 Grid Section -->
-    <section id="capitulo2">
-        <div class="container">
-            <h3 class="text-center">2. Criando repositório</h3>
-            <hr class="star-primary">
-            <div class="row">
-		<p class="conteudo"></p>
-		<button class="btn btn-primary" onclick="voltar()"> Voltar</button>
-            </div>
-        </div>
-    </section>
-
-<!-- Capitulo3 Grid Section -->
-    <section id="capitulo3">
-        <div class="container">
-            <h3 class="text-center">3. Clonando um repositório (clone)</h3>
-            <hr class="star-primary">
-            <div class="row">
-		<p class="conteudo"></p>
-		<button class="btn btn-primary" onclick="voltar()"> Voltar</button>
-            </div>
-        </div>
-    </section>
-
-<!-- Capitulo4 Grid Section -->
-    <section id="capitulo4">
-        <div class="container">
-            <h3 class="text-center">4. Adicionando arquivos no staging (add)</h3>
-            <hr class="star-primary">
-            <div class="row">
-		<p class="conteudo"></p>
-		<button class="btn btn-primary" onclick="voltar()"> Voltar</button>
-            </div>
-        </div>
-    </section>
-
-<!-- Capitulo5 Grid Section -->
-    <section id="capitulo5">
-        <div class="container">
-            <h3 class="text-center">5. Comitando alterações (commit)</h3>
-            <hr class="star-primary">
-            <div class="row">
-		<p class="conteudo"></p>
-		<button class="btn btn-primary" onclick="voltar()"> Voltar</button>
-            </div>
-        </div>
-    </section>
-
-<!-- Capitulo6 Grid Section -->
-    <section id="capitulo6">
-        <div class="container">
-            <h3 class="text-center">6. Publicando no github (push)</h3>
-            <hr class="star-primary">
-            <div class="row">
-		<p class="conteudo"></p>
-		<button class="btn btn-primary" onclick="voltar()"> Voltar</button>
-            </div>
-        </div>
-    </section>
-
-<!-- Capitulo7 Grid Section -->
-    <section id="capitulo7">
-        <div class="container">
-            <h3 class="text-center">7. Atualizando seu post (pull)</h3>
-            <hr class="star-primary">
-            <div class="row">
-		<p class="conteudo"></p>
-		<button class="btn btn-primary" onclick="voltar()"> Voltar</button>
-            </div>
-        </div>
-    </section>
-
-<!-- Capitulo8 Grid Section -->
-    <section id="capitulo8">
-        <div class="container">
-            <h3 class="text-center">8. Criando uma branch</h3>
-            <hr class="star-primary">
-            <div class="row">
-		<p class="conteudo"></p>
-		<button class="btn btn-primary" onclick="voltar()"> Voltar</button>
-            </div>
-        </div>
-    </section>  
    
 
     <!-- Footer -->
@@ -490,16 +403,8 @@
     <!-- Custom scripts for this template -->
     <script src="js/freelancer.min.js"></script>
 <script>
-$(document).ready(function(){
-    $('section').hide();
-    $('#capitulo1').show();
-});
-function inserir(capitulo){
-    $('section').hide();
-    $('#'+capitulo).show();
-}
 
-function voltar(){
+function topo(){
     $('html, body').animate({
    	 scrollTop: $('#header').offset().top
     }, 2000);
